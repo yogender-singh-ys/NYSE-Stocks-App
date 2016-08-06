@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sam_chordas.android.stockhawk.ui.GraphActivity">
+    <item
+        android:id="@+id/days_7"
+        android:orderInCategory="100"
+        android:title="@string/menu_7_days"
+        app:showAsAction="never"
+        android:contentDescription="@string/menu_7_days"
+        />
+    <item
+        android:id="@+id/days_15"
+        android:orderInCategory="100"
+        android:title="@string/menu_15_days"
+        android:contentDescription="@string/menu_15_days"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/days_30"
+        android:orderInCategory="100"
+        android:title="@string/menu_30_days"
+        android:contentDescription="@string/menu_30_days"
+        app:showAsAction="never" />
+</menu>

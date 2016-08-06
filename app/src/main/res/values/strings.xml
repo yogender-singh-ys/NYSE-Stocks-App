@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Stock Hawk</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_change_units">Change Units</string>
+    <string name="symbol_search">Symbol Search</string>
+    <string name="content_test">Search for a Stock Symbol</string>
+    <string name="input_hint">FB</string>
+    <string name="input_prefill"></string>
+    <string name="network_toast">Uh-oh! This app requires an internet connection. For latest updates connect to internet.</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="invalid_stock">Invalid Stock symbol.</string>
+    <string name="chart_displayed">This chart is already showed.</string>
+    <string name="loading_chart" formatted="false">Please wait loading chart for %s days</string>
+    <string name="historic_heading" formatted="false">Histotic data chart of %s for %s days</string>
+    <string name="stock_already_saved">This stock is already saved!</string>
+
+    <string name="menu_7_days">7 days chart</string>
+    <string name="menu_15_days">15 days chart</string>
+    <string name="menu_30_days">30 days chart</string>
+    <string name="stocks">Stocks</string>
+
+    <!-- Setting array Strings -->
+    <string name="pref_title_lang">Language</string>
+    <string-array name="pref_sync_lang_titles">
+        <item>English</item>
+        <item>हिंदी</item>
+        <item>עִברִית</item>
+    </string-array>
+    <string-array name="pref_sync_lang_values">
+        <item>en</item>
+        <item>hi</item>
+        <item>iw</item>
+    </string-array>
+
+    <!-- Error Strings -->
+    <string name="invalid_cursor_error_text" translatable="false">This should only be called when Cursor is valid</string>
+    <string name="move_cursor_position_error_text" translatable="false">This should only be called when Cursor is valid</string>
+    <string name="invalid_json_error_text" translatable="false">Error checking valid JSON</string>
+    <string name="batch_insert_error_text" translatable="false">Error applying batch insert</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="change_units">Change units</string>
+    <string name="stock_item_text" formatted="false" >%s has bid price %s. Slide to dismiss</string>
+
+
+</resources>

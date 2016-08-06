@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">स्टॉक हॉक</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="action_change_units">इकाइयों बदलें</string>
+    <string name="symbol_search">प्रतीक खोज</string>
+    <string name="content_test">एक शेयर प्रतीक की खोज</string>
+    <string name="network_toast">उह ओह! इस app एक इंटरनेट कनेक्शन की आवश्यकता है</string>
+    <string name="add_widget">विजेट जोड़ें</string>
+    <string name="invalid_stock">अवैध स्टॉक प्रतीक।</string>
+    <string name="chart_displayed">इस चार्ट में पहले से ही पता चला है।</string>
+    <string name="loading_chart" formatted="false">%s दिनों के लिए लोड हो रहा है चार्ट कृपया प्रतीक्षा करें</string>
+    <string name="historic_heading" formatted="false">%s दिनों के लिए %s के ऐतिहासिक डेटा चार्ट</string>
+    <string name="stock_already_saved">यह शेयर पहले से ही बचाया है!</string>
+    <string name="pref_title_lang">भाषा</string>
+    <string name="menu_7_days">7 दिन चार्ट</string>
+    <string name="menu_15_days">15 दिन चार्ट</string>
+    <string name="menu_30_days">30 दिन चार्ट</string>
+    <string name="stocks">स्टॉक्स</string>
+
+
+</resources>

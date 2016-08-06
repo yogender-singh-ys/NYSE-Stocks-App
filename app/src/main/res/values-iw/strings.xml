@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name"> הוק במלאי </string>
+    <string name="action_settings"> הגדרות </string>
+    <string name="action_change_units"> יחידות שינוי </string>
+    <string name="symbol_search" > חיפוש סמ  </string>
+    <string name="content_test"> חפש מניית Symbol </string>
+    <string name="network_toast"> ו - או! יישום זה דורש חיבור לאינטרנטא </string>
+    <string name="add_widget"> הוספת ווידגט </string>
+    <string name="invalid_stock">סמל המניה לא חוקי.</string>
+    <string name="chart_displayed">טבלה זו היא הראתה כבר.</string>
+    <string name="loading_chart" formatted="false">  אנא המתן טעינת תרשים במשך ימים:%s</string>
+    <string name="historic_heading" formatted="false">תרשים נתונים היסטוריים  : %s :%s</string>
+    <string name="stock_already_saved">מנייה זה כבר שמור!</string>
+    <string name="pref_title_lang">שפה</string>
+    <string name="menu_7_days">תרשים 7 ימים</string>
+    <string name="menu_15_days">תרשים 15 ימים</string>
+    <string name="menu_30_days">תרשים30  ימים</string>
+    <string name="stocks">מניות</string>
+
+</resources>
