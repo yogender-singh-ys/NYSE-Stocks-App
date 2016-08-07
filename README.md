@@ -1,5 +1,5 @@
 # Overview
-This app displays NYE stocks value in `RecyclerView` allows to add, delete and graphically show historic data. Support multiple language and  shows stock data in Android Widget.
+This app displays NYSE stocks value in `RecyclerView` allows to add, delete and graphically show historic data. Support multiple languages and  shows stock data in Android Widget.
 Pulls stocks once every hour after the app has been opened.
 
 # Features
